@@ -33,7 +33,7 @@ const GenerateRGB = () => {
 
 
   return (
-    <div style={{ backgroundColor: color }} className="h-screen w-screen">
+    <div style={{ backgroundColor: color }} className="h-screen">
        <section className="flex justify-around pt-14">
 
         <button onClick={() => setColorType("hex")} className="bg-blue-500 p-2 rounded-lg text-white font-semibold hover:bg-white hover:text-black hover:border-2   shadow-inner shadow-slate-700" >Select Hex</button>

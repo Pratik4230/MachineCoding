@@ -1,6 +1,6 @@
 # Machine Coding Round Solutions Showcase
 
-This project showcases solutions to various machine coding round questions using React and Tailwind CSS. It includes a dynamic Accordion UI for displaying questions and answers with support for single and multi-selection modes, and a Random Color Generator that allows toggling between HEX and RGB color formats to generate random colors on the fly.
+This project showcases solutions to various machine coding round questions using React and Tailwind CSS. It includes a dynamic Accordion UI for displaying questions and answers with support for single and multi-selection modes, a Random Color Generator that allows toggling between HEX and RGB color formats to generate random colors on the fly, and a Star Rating component for interactive user ratings.
 
 ## Installation
 
@@ -9,6 +9,7 @@ git clone https://github.com/Pratik4230/MachineCoding.git
 
 
 2. Navigate into the project directory:
+    cd MachineCoding
 
 3. Install dependencies:
     npm install
@@ -42,3 +43,13 @@ Continuing the machine coding round series, the Random Color Generator is a fun 
 - **Toggle between HEX and RGB:** Choose your preferred color format with a click.
 - **Generate Random Colors:** Instantly create a random color in the selected format.
 - **Dynamic Background Color:** The screen background changes to the generated color, providing immediate visual feedback.
+
+
+### Star Rating Component
+
+The Star Rating component adds a sleek and interactive rating system to your projects.
+
+#### Features:
+- **Interactive UI:** Enhances user experience with smooth hover and click effects.
+- **Responsive Design:** Tailwind CSS ensures the component looks great on any device.
+- **Accessibility:** Built with ARIA roles and labels for better accessibility.

@@ -1,6 +1,6 @@
 # Machine Coding Round Solutions Showcase
 
-This project showcases solutions to various machine coding round questions using React and Tailwind CSS. It includes a dynamic Accordion UI for displaying questions and answers with support for single and multi-selection modes, a Random Color Generator that allows toggling between HEX and RGB color formats to generate random colors on the fly, and a Star Rating component for interactive user ratings.
+This project showcases solutions to various machine coding round questions using React and Tailwind CSS. It includes a dynamic Accordion UI for displaying questions and answers with support for single and multi-selection modes, a Random Color Generator that allows toggling between HEX and RGB color formats to generate random colors on the fly, and a Star Rating component for interactive user ratings.`useWindowResize`, is a custom React hook that tracks window size changes in real-time.
 
 ## Installation
 
@@ -53,3 +53,12 @@ The Star Rating component adds a sleek and interactive rating system to your pro
 - **Interactive UI:** Enhances user experience with smooth hover and click effects.
 - **Responsive Design:** Tailwind CSS ensures the component looks great on any device.
 - **Accessibility:** Built with ARIA roles and labels for better accessibility.
+
+### Custom Hook: useWindowResize
+
+The latest addition to our projects, `useWindowResize`, is a custom React hook that tracks window size changes in real-time. This hook ensures your components remain responsive by updating dynamically with the window dimensions.
+
+#### Key Features:
+- **Real-time Window Size Tracking:** Keeps your UI up-to-date with current window dimensions.
+- **Effortless Integration:** Simple to use in any React component.
+- **Optimized Performance:** Utilizes `useLayoutEffect` for smooth updates.

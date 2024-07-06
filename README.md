@@ -1,6 +1,6 @@
 # Machine Coding Round Solutions Showcase
 
-This project showcases solutions to various machine coding round questions using React and Tailwind CSS. It includes a dynamic Accordion UI for displaying questions and answers with support for single and multi-selection modes, a Random Color Generator that allows toggling between HEX and RGB color formats to generate random colors on the fly, and a Star Rating component for interactive user ratings.`useWindowResize`, is a custom React hook that tracks window size changes in real-time.
+This project showcases solutions to various machine coding round questions using React and Tailwind CSS. 
 
 ## Installation
 
@@ -62,3 +62,18 @@ The latest addition to our projects, `useWindowResize`, is a custom React hook t
 - **Real-time Window Size Tracking:** Keeps your UI up-to-date with current window dimensions.
 - **Effortless Integration:** Simple to use in any React component.
 - **Optimized Performance:** Utilizes `useLayoutEffect` for smooth updates.
+
+
+
+### ClickOutside Component
+
+The `ClickOutside` component is designed to handle outside clicks using React hooks. This is particularly useful for closing modals, dropdowns, or any UI component when a user clicks outside of it.
+
+#### Features:
+- **Custom Hook: useOutsideClick:** A reusable hook that detects clicks outside a specified element.
+- **State Management:** Manages the visibility of content based on user interactions outside the component.
+- **User Experience:** Enhances UI by efficiently managing component state and improving usability.
+
+## Conclusion
+
+This project aims to provide practical and reusable solutions for common machine coding round questions using modern web development tools and best practices. For more details and to explore the code, visit the [MachineCoding](https://github.com/Pratik4230/MachineCoding) repository.

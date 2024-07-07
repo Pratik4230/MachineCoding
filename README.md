@@ -74,6 +74,17 @@ The `ClickOutside` component is designed to handle outside clicks using React ho
 - **State Management:** Manages the visibility of content based on user interactions outside the component.
 - **User Experience:** Enhances UI by efficiently managing component state and improving usability.
 
+
+### Image Slider
+
+Introducing our newest project: the Image Slider! This project utilizes React and Tailwind CSS to create a dynamic and interactive image slider. Stay tuned as we expand its capabilities with features like smooth transitions and navigation controls.
+
+#### Planned Features:
+- **Dynamic Image Fetching:** Fetch images from an external API.
+- **Smooth Transitions:** Implement CSS transitions for a seamless sliding effect.
+- **Navigation Controls:** Prev/Next buttons for easy navigation through images.
+
+
 ## Conclusion
 
 This project aims to provide practical and reusable solutions for common machine coding round questions using modern web development tools and best practices. For more details and to explore the code, visit the [MachineCoding](https://github.com/Pratik4230/MachineCoding) repository.
